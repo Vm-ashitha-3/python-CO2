@@ -1,0 +1,5 @@
+list=[ 4, 3, 7, 8, 11, 25]
+sum=0
+for i in list:
+    sum+=i
+print(sum)
